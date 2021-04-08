@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YerkinSuimenbay
 - 👀 I’m interested in front end developement
 - 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any project related to JS
 - 📫 You can reach me via yerkinsuimenbay@gmail.com
 
 <!---
