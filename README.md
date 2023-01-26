@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YerkinSuimenbay
-- 👀 I’m interested in full stack developement
+- 👀 Full-stack Developer
 - 🌱 Currently working with MERN stack
-- 💞️ I’m looking to collaborate on any project related to JS
+- 💞️ I’m looking to collaborate on any project related to JS/TS
 - 📫 You can reach me via yerkinsuimenbay@gmail.com
 
 <!---
